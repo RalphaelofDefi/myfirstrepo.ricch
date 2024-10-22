@@ -1,0 +1,2 @@
+the above code is a html gallery, add hover efftect to all the pictures.
+also make that when a picture is clicked of taped its opens individually and also put a back button so the the user and go back
